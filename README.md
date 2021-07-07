@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @chrisswhitneyy
-- 👀 I’m interested in cloud, mobile and blockchain computing.
-- 🌱 I’m currently learning Etheruem. 
-- 📫 How to reach me through email.
+Digital creative working in the clouds
 
 <!---
 chrisswhitneyy/chrisswhitneyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
