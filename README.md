@@ -8,7 +8,7 @@ I build scalable, real-world software at the intersection of **full-stack develo
 ### 🧠 About Me
 
 - **Founder & Lead Engineer @ Northern Computing**  
-  Software development agency & holding company building custom platforms for nonprofits and tourism-based businesses across Arizona.
+  Software development agency & software product company building custom platforms for nonprofits and tourism-based businesses across Arizona.
 
 - **Creator of [BisbeeGhost.app](https://bisbeeghost.app)**  
   A self-guided mobile ghost tour experience combining storytelling, historical research, and mobile-first UX — with white-label expansion plans for other historic towns.
