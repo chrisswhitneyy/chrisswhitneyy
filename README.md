@@ -88,7 +88,7 @@ Independent ticketing platform for comedy & live events.
 
 ### 📫 Connect with Me
 
-- **Website:** https://northerncomputing.com *(or your preferred URL)*
+- **Website:** https://northerncomputing.com
 - **GitHub:** You’re already here 🙂
 
 ---
